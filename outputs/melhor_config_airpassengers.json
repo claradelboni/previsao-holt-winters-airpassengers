@@ -1,0 +1,7 @@
+{
+  "seasonal_periods": 12,
+  "trend": "add",
+  "seasonal": "mul",
+  "MAPE": 2.2074214313335156,
+  "RMSE": 15.81038040261183
+}
